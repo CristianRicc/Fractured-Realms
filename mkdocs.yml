@@ -1,7 +1,12 @@
 site_name: Fractured Realms
 theme:
   name: "material"
+  font:
+    text: Varela Round
 nav:
   - indice: index.md
   - descrizione del progetto: description.md
+
+name: Publish docs using MkDocs
+
 
